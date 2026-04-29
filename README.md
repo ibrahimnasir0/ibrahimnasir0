@@ -48,9 +48,9 @@ MongoDB • MySQL • React (basic UI for tools)
 ---
 
 ## 🌐 Links
-- Website: https://ibrahimnasir.tech  
-- LinkedIn: in/ibrahimnasir0  
-- Medium: @ibrahimnasir0  
+- 🌍 Website: https://ibrahimnasir.tech  
+- 💼 LinkedIn: https://www.linkedin.com/in/ibrahimnasir0  
+- ✍️ Medium: https://medium.com/@ibrahimnasir0  
 
 ---
 
